@@ -2,7 +2,7 @@
 
 Город: Compton
 # Используемый код:
-```
+```html
 <html>
 <meta charset="UTF-8">
 	<head>
